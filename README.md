@@ -1,6 +1,8 @@
 ## Hi there, I'm Esfokom 👋
 I'm a passionate software developer with a focus on building modern applications using Flutter, Firebase, and blockchain technologies. Welcome to my GitHub profile!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Esfokom&color=blue)
+
 🔗 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Esfokom)
@@ -53,7 +55,24 @@ I'm a passionate software developer with a focus on building modern applications
 
 Check out the project [here](https://github.com/Esfokom/coffee_shop).
 
-![Profile Views](https://komarev.com/ghpvc/?username=Esfokom&color=blue)
+## Featured Project: Doctor Appointment
+[Doctor Appointment](https://github.com/Esfokom/Doctor_Appointment) is a frontend implementation of a doctor appointment user interface. The design was provided, and this repository focuses solely on bringing the given UI to life. The project does not include backend functionality and is meant to showcase the layout and design features for a doctor appointment system.
+
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+
+  <!-- Screenshot 1 -->
+  <img src="https://github.com/Esfokom/doctor_appointment/blob/main/screen_capture/screenshot1.png" alt="Sreenshot 1" style="width: 30%; height: auto;">
+
+  <!-- Screenshot 2 -->
+  <img src="https://github.com/Esfokom/doctor_appointment/blob/main/screen_capture/screenshot1.png" alt="Screenshot 2" style="width: 30%; height: auto;">
+
+
+</div>
+
+**Key Features**:
+- User-friendly appointment scheduling interface
+- Intuitive navigation and clean design
+- Responsive layout for different devices
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
