@@ -13,7 +13,24 @@ I'm a passionate software developer with a focus on building modern applications
 ## Featured Project: Coffee Shop App ☕
 [Coffee Shop](https://github.com/Esfokom/coffee_shop) is a Flutter app that provides a seamless coffee ordering experience, with beautiful UI and Google Maps integration to locate nearby coffee shops.
 
-![Coffee Shop Screenshot](https://github.com/Esfokom/coffee_shop/blob/main/assets/screenshot1.png)
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+
+  <!-- Screenshot 1 -->
+  <img src="./assets/screenshots/onboarding.webp" alt="Onboarding" style="width: 30%; height: auto;">
+
+  <!-- Screenshot 2 -->
+  <img src="./assets/screenshots/home.webp" alt="Home" style="width: 30%; height: auto;">
+
+  <!-- Screenshot 3 -->
+  <img src="./assets/screenshots/detail.webp" alt="Detail" style="width: 30%; height: auto;">
+
+  <!-- Screenshot 4 -->
+  <img src="./assets/screenshots/order.webp" alt="Order" style="width: 30%; height: auto;">
+
+  <!-- Screenshot 5 -->
+  <img src="./assets/screenshots/delivery.webp" alt="Delivery" style="width: 30%; height: auto;">
+
+</div>
 
 **Key Features**:
 - Browse coffee types and details
