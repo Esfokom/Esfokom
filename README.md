@@ -64,7 +64,7 @@ Check out the project [here](https://github.com/Esfokom/coffee_shop).
   <img src="https://github.com/Esfokom/doctor_appointment/blob/main/screen_capture/screenshot1.png" alt="Sreenshot 1" style="width: 30%; height: auto;">
 
   <!-- Screenshot 2 -->
-  <img src="https://github.com/Esfokom/doctor_appointment/blob/main/screen_capture/screenshot1.png" alt="Screenshot 2" style="width: 30%; height: auto;">
+  <img src="https://github.com/Esfokom/doctor_appointment/blob/main/screen_capture/screenshot2.png" alt="Screenshot 2" style="width: 30%; height: auto;">
 
 
 </div>
