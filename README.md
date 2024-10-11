@@ -16,19 +16,19 @@ I'm a passionate software developer with a focus on building modern applications
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
 
   <!-- Screenshot 1 -->
-  <img src="./assets/screenshots/onboarding.webp" alt="Onboarding" style="width: 30%; height: auto;">
+  <img src="https://github.com/Esfokom/coffee_shop/blob/main/assets/screenshots/onboarding.webp" alt="Onboarding" style="width: 30%; height: auto;">
 
   <!-- Screenshot 2 -->
-  <img src="./assets/screenshots/home.webp" alt="Home" style="width: 30%; height: auto;">
+  <img src="https://github.com/Esfokom/coffee_shop/blob/main/assets/screenshots/home.webp" alt="Home" style="width: 30%; height: auto;">
 
   <!-- Screenshot 3 -->
-  <img src="./assets/screenshots/detail.webp" alt="Detail" style="width: 30%; height: auto;">
+  <img src="https://github.com/Esfokom/coffee_shop/blob/main/assets/screenshots/detail.webp" alt="Detail" style="width: 30%; height: auto;">
 
   <!-- Screenshot 4 -->
-  <img src="./assets/screenshots/order.webp" alt="Order" style="width: 30%; height: auto;">
+  <img src="https://github.com/Esfokom/coffee_shop/blob/main/assets/screenshots/order.webp" alt="Order" style="width: 30%; height: auto;">
 
   <!-- Screenshot 5 -->
-  <img src="./assets/screenshots/delivery.webp" alt="Delivery" style="width: 30%; height: auto;">
+  <img src="https://github.com/Esfokom/coffee_shop/blob/main/assets/screenshots/delivery.webp" alt="Delivery" style="width: 30%; height: auto;">
 
 </div>
 
