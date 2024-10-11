@@ -1,6 +1,20 @@
 ## Hi there, I'm Esfokom 👋
 I'm a passionate software developer with a focus on building modern applications using Flutter, Firebase, and blockchain technologies. Welcome to my GitHub profile!
 
+🔗 **Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Esfokom)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/esfokom)
+
+---
+
+### Education 🎓
+
+- **B.Sc. Computer Science** - Kwame Nkrumah University of Science and Technology (KNUST), Ghana  
+  I am a student focusing on software engineering, mobile app development, and blockchain technologies.
+
+---
+
 ### Tech Stacks:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
