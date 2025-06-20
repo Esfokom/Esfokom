@@ -38,6 +38,42 @@ I'm a passionate software developer with a focus on building modern applications
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+# Featured Project: Fingenie
+
+<div align="center">
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/public/images/logo.png" alt="Fingenie Logo" width="200"/>
+  <p><em>Smart financial management and analytics platform</em></p>
+</div>
+
+## About Fingenie
+
+Fingenie is an innovative financial management platform designed to help users track expenses, manage budgets, and gain insights through powerful analytics. The platform combines intuitive design with advanced data visualization to make financial management accessible to everyone.
+
+## Key Features
+
+- **Expense Tracking**: Easily record and categorize daily expenses
+- **Budget Management**: Set and monitor financial goals
+- **Analytics Dashboard**: Visualize spending patterns with interactive charts
+- **Smart Insights**: Receive AI-powered recommendations for financial optimization
+- **Multi-device Sync**: Access your financial data from anywhere
+
+## Project Showcase
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/hero.png" alt="Fingenie Dashboard" width="100%" />
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/marketplace.png" alt="Analytics View" width="100%" />
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/gig.png" alt="Budget Planning" width="100%" />
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/mentorship.png" alt="Mobile Experience" width="100%" />
+</div>
+
+## Learn More
+
+Explore the complete project: [Fingenie on GitHub](https://github.com/Esfokom/skillbridge)
+
+
 ## Featured Project: Coffee Shop App ☕
 [Coffee Shop](https://github.com/Esfokom/coffee_shop) is a Flutter app that provides a seamless coffee ordering experience, with beautiful UI and Google Maps integration to locate nearby coffee shops.
 
