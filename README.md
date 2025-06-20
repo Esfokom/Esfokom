@@ -77,40 +77,41 @@ FinGenie is an AI-powered banking assistant that transforms how users interact w
 - **Live Demo**: [https://fingenie-three.vercel.app/](https://fingenie-three.vercel.app/)
 
 
-# Featured Project: Fingenie
+# Featured Project: SkillBridge
 
 <div align="center">
-  <img src="https://github.com/Esfokom/skillbridge/blob/v5/public/images/logo.png" alt="Fingenie Logo" width="200"/>
-  <p><em>Smart financial management and analytics platform</em></p>
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/public/images/logo.png" alt="SkillBridge Logo" width="200"/>
+  <p><em>Connecting talents with opportunities</em></p>
 </div>
 
-## About Fingenie
+## About SkillBridge
 
-Fingenie is an innovative financial management platform designed to help users track expenses, manage budgets, and gain insights through powerful analytics. The platform combines intuitive design with advanced data visualization to make financial management accessible to everyone.
+SkillBridge is a comprehensive platform designed to connect skilled professionals with businesses seeking talent. The platform provides a streamlined way for freelancers to showcase their skills and for companies to find the right expertise for their projects.
 
 ## Key Features
 
-- **Expense Tracking**: Easily record and categorize daily expenses
-- **Budget Management**: Set and monitor financial goals
-- **Analytics Dashboard**: Visualize spending patterns with interactive charts
-- **Smart Insights**: Receive AI-powered recommendations for financial optimization
-- **Multi-device Sync**: Access your financial data from anywhere
+- **Talent Marketplace**: Browse and connect with skilled professionals
+- **Gig Economy Support**: Find short-term projects and gigs
+- **Mentorship Programs**: Learn from industry experts
+- **Skill Development**: Access resources to enhance your professional skills
+- **Secure Payment System**: Hassle-free transactions between clients and freelancers
 
 ## Project Showcase
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/hero.png" alt="Fingenie Dashboard" width="100%" />
-  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/marketplace.png" alt="Analytics View" width="100%" />
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/hero.png" alt="SkillBridge Landing Page" width="100%" />
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/marketplace.png" alt="Talent Marketplace" width="100%" />
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/gig.png" alt="Budget Planning" width="100%" />
-  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/mentorship.png" alt="Mobile Experience" width="100%" />
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/gig.png" alt="Gig Opportunities" width="100%" />
+  <img src="https://github.com/Esfokom/skillbridge/blob/v5/screenshots/mentorship.png" alt="Mentorship Programs" width="100%" />
 </div>
 
 ## Learn More
 
-Explore the complete project: [Fingenie on GitHub](https://github.com/Esfokom/skillbridge)
+Explore the complete project: [SkillBridge on GitHub](https://github.com/Esfokom/skillbridge)
+
 
 
 ## Featured Project: Coffee Shop App ☕
